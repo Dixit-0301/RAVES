@@ -1,10 +1,8 @@
-**RAVES – Restaurant Reservation System
-**
+RAVES – Restaurant Reservation System
 
 RAVES is a full-stack web application designed to streamline restaurant reservation management. It allows users to book tables easily while enabling administrators to manage reservations efficiently.
 
-**Features
-**
+Features
 Table Reservation System
 
 Users can book tables by providing necessary details.
@@ -21,28 +19,27 @@ Error Handling & Validation
 
 Middleware ensures proper request validation and error control.
 
-**Tech Stack
-**
-**Frontend**
+Tech Stack
+Frontend
 
 React (likely in /frontend)
 Tailwind CSS / Modern UI
 
-**Backend**
+Backend
 
 Node.js
 Express.js
 
-**Database
-**
+Database
+
 MongoDB (via Mongoose)
 
-**Objective
-**Simplify restaurant booking process
+Objective
+Simplify restaurant booking process
 Reduce manual reservation handling
 Improve user experience with automation
-**Future Improvements
-**User authentication system
+Future Improvements
+User authentication system
 Admin dashboard
 Payment integration
 Email/SMS notifications
